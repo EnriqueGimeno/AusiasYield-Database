@@ -66,26 +66,7 @@ INSERT INTO `alumno` (`id`, `id_usuario`, `dni`, `numexpediente`, `nombre`, `ape
 
 ----------Inicio tabla Contestacion ENRIQUE GIMENO---------------
 
--- phpMyAdmin SQL Dump
--- version 4.0.5
--- http://www.phpmyadmin.net
---
--- Servidor: localhost:3306
--- Tiempo de generación: 04-11-2013 a las 01:36:44
--- Versión del servidor: 5.5.32
--- Versión de PHP: 5.4.19
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-
---
--- Base de datos: `proyect`
 --
 
 -- --------------------------------------------------------
@@ -130,27 +111,7 @@ INSERT INTO `contestacion` (`id`, `id_usuario`, `id_pregunta`, `id_opcion`) VALU
 
 ----------------Inicio tabla Pegunta ENRIQUE GIMENO-----------------------------
 
--- phpMyAdmin SQL Dump
--- version 4.0.5
--- http://www.phpmyadmin.net
---
--- Servidor: localhost:3306
--- Tiempo de generación: 04-11-2013 a las 01:43:30
--- Versión del servidor: 5.5.32
--- Versión de PHP: 5.4.19
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-
---
--- Base de datos: `proyect`
---
 
 -- --------------------------------------------------------
 
